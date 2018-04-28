@@ -1,0 +1,6 @@
+framework module Pods_swiftyMaps {
+  umbrella header "Pods-swiftyMaps-umbrella.h"
+
+  export *
+  module * { export * }
+}
